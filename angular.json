@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "spotify"
+  "defaultProject": "spotify",
+  "cli": {
+    "analytics": false
+  }
 }
