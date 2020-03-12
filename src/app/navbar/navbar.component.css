@@ -1,0 +1,24 @@
+.toolbar {
+  background-color: #000;
+  color: #fff;
+  height: 5rem;
+}
+
+.toolbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: inherit;
+}
+
+a {
+  color: #fff;
+}
+
+a > img {
+  width: 140px;
+}
+
+ul {
+  list-style: none;
+}
